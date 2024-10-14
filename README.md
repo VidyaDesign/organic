@@ -25,7 +25,7 @@ Os usuários têm acesso a uma loja virtual, onde podem adquirir produtos relaci
 - Figma
   
 ## Autor
-- **Mahavidya**: A criadora deste projeto, comprometida em desenvolver soluções criativas e educativas no campo do desenvolvimento web.
+- **Mahavidya**: A criadora deste projeto está comprometida em desenvolver soluções criativas e educativas no campo do desenvolvimento web.
 
 ## Aprendizados
 Este projeto oferece uma excelente oportunidade para aprender sobre design de UX/UI, criação de interfaces intuitivas e a importância da interatividade em aplicações voltadas para o cooperativismo. Ao contribuir, você poderá aprimorar suas habilidades de design e desenvolvimento.
